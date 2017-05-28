@@ -1,1 +1,1 @@
-![](/screens/screen1.jpg?raw=true)
+![](https://raw.githubusercontent.com/bartoszmaka/school-genetic-algorithm/master/screens/screen1.png)
